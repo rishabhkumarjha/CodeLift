@@ -12,3 +12,12 @@ ls -l
 |1|file/directory?-owner-group-other|
 |2|owner name|
 |3|owner group|
+
+```plantuml
+Alice -> bob
+```
+
+```mermaid
+graph LR
+    Alice-->Bob
+```
